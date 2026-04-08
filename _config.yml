@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Maximilian Weininger
-email: maximilian.weininger@rub.de
+title: Konstantina Drainas
+email: k.drainas@tum.de
 description: >- # this means to ignore newlines until "baseurl:"
-  Dr. Maximilian Weininger's Webpage
+  Konstantina Drainas' Webpage
 twitter_username: 
-github_username: mweininger
+github_username: kdrainas
 minimal_mistakes_skin: default
 search: true
 
@@ -56,22 +56,19 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Maximilian Weininger"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Theoretical computer scientist researching formal verification of safety-critical systems."
+  name   : "Konstantina Drainas"
+  avatar : "/assets/images/profile-pic.jpg"
+  bio    : "Biology x Computer Science | Animal Health and Welfare"
   links:
-    - label: "Ruhr-University Bochum"
+    - label: "Technical University of Munich"
       icon: "fa fa-fw fa-map-marker"
-      url: "https://informatik.rub.de/en/research/chairs/aifm/"
+      url: "https://www.lss.ls.tum.de/aquasys/team/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:maximilian.weininger@rub.de"
+      url: "mailto:k.drainas@tum.de"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=88fkEooAAAAJ&hl=en"
-    - label: "Orcid"
-      icon: "fa fa-user"
-      url: "https://orcid.org/0000-0002-0163-2152"
+      url: "https://scholar.google.com/citations?user=3HbcvD8AAAAJ&hl=en&oi=ao"
 
 #footer:
 #  links:
